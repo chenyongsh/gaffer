@@ -1,3 +1,8 @@
+API
+---
+
+- Spreadsheet : Added an `addColumn()` overload with an `adoptEnabledPlug` boolean argument. This allows cells to reuse the `enabled` plug from their `value` plug if it has one.
+
 0.57.3.0 (relative to 0.57.2.0)
 ========
 
